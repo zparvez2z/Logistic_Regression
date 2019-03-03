@@ -1,8 +1,5 @@
 # My_Logistic_Regression_practice
-this is my repository of Logistic Regression practice 
-Here I worked on the Titanic Data Set from Kaggle. This is a very famous data set and very beginner friendly .
-
-Here I tried to predict a classification- survival or deceased. I used a "semi-cleaned" version of the titanic data set, if you use the data set hosted directly on Kaggle, you may need to do some additional cleaning not shown in this notebook.
+this is my repository of Logistic Regression practice .
 
 Logistic Regression :
   Logistic regression is a classification model that is very easy to implement but performs very well on linearly separable classes. It is one of the most widely used algorithms for classification in industry.
